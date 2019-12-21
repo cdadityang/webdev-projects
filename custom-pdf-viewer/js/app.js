@@ -1,4 +1,4 @@
-const url = 'https://imadityang.github.io/web-dev-projects/custom-pdf-viewer/docs/pdf.pdf';
+const url = 'https://cdadityang.github.io/webdev-projects/custom-pdf-viewer/docs/pdf.pdf';
 
 let pdfDoc = null,
       pageNum = 1,
