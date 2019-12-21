@@ -20,3 +20,12 @@
 
 6. [Finddit - Reddit search API](https://cdadityang.github.io/webdev-projects/finddit-reddit-search/)
     - [Tutorial YouTube Link](https://www.youtube.com/watch?v=VITzIZB-bXU)
+
+7. [Google Maps API](https://cdadityang.github.io/webdev-projects/google-maps-api/index.html)
+    - [Tutorial YouTube Link](https://www.youtube.com/watch?v=Zxf1mnP5zcw)
+
+8. [Custom Vanilla JS Elements](https://cdadityang.github.io/webdev-projects/custom-vanilla-js-elements/index.html)
+    - [Custom Modal](https://cdadityang.github.io/webdev-projects/custom-vanilla-js-elements/index.html)
+    - [Drag n Drop](https://cdadityang.github.io/webdev-projects/custom-vanilla-js-elements/dragndrop.html)
+
+9. 
