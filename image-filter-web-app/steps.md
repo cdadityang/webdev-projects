@@ -1,0 +1,1 @@
+1. We'll use Caman JS for image editing - http://camanjs.com/

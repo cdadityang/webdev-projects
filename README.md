@@ -28,4 +28,16 @@
     - [Custom Modal](https://cdadityang.github.io/webdev-projects/custom-vanilla-js-elements/index.html)
     - [Drag n Drop](https://cdadityang.github.io/webdev-projects/custom-vanilla-js-elements/dragndrop.html)
 
-9. 
+9. [Image Filter App](https://cdadityang.github.io/webdev-projects/image-filter-web-app/index.html)
+    - [Tutorial YouTube Link](https://www.youtube.com/watch?v=MEENB3_9yUw)
+
+10. [Typer Racer - Type as fast as you can!](https://cdadityang.github.io/webdev-projects/typer-race/index.html)
+
+11. [Newsletter signup App with Mailchimp API](https://github.com/cdadityang/webdev-projects/tree/master/newsletter-mailchimp-api)
+    - [Tutorial YouTube Link](https://www.youtube.com/watch?v=Gjk25N7WFkI)
+    - It uses express server, Node.js and node-fetch to make fetch requests. 
+    - Whenever user submits the form, the params are send to Mailchimp API and added to list and if success > success page shows up, or else fail page shows up.
+    - After cloning run `npm i` and then `npm run start`
+
+12. [Custom PDF Viewer](https://cdadityang.github.io/webdev-projects/custom-pdf-viewer)
+    - [Tutorial YouTube Link](https://www.youtube.com/watch?v=ydCSSgwZjzs)
