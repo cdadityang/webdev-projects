@@ -41,3 +41,6 @@
 
 12. [Custom PDF Viewer](https://cdadityang.github.io/webdev-projects/custom-pdf-viewer)
     - [Tutorial YouTube Link](https://www.youtube.com/watch?v=ydCSSgwZjzs)
+
+13. [WinBox.js Tutorial](https://cdadityang.github.io/webdev-projects/winbox-js-intro/)
+    - [Tutorial YouTube Link](https://www.youtube.com/watch?v=jQCk2yo10YY)
